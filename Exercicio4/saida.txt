@@ -1,0 +1,1157 @@
+Rua José Leite de Andrade monitorada pela câmera na esquina 410707589
+Avenida Presidente Tancredo Neves monitorada pela câmera na esquina 410707589
+Rua José Leite de Andrade monitorada pela câmera na esquina 410707589
+Avenida Presidente Tancredo Neves monitorada pela câmera na esquina 410707589
+--Rua Sem Nome 4-- monitorada pela câmera na esquina 410707589
+Ponte da Cadeia monitorada pela câmera na esquina 410707358
+Rua Manoel Anselmo monitorada pela câmera na esquina 410707358
+Avenida Presidente Tancredo Neves monitorada pela câmera na esquina 410707358
+Rua Artur Bernardes monitorada pela câmera na esquina 410707358
+Rua Hermílio Alves monitorada pela câmera na esquina 3605393665
+Rua Hermílio Alves monitorada pela câmera na esquina 3605393665
+Rua Ministro Gabriel Passos monitorada pela câmera na esquina 3605393665
+Rua Hermílio Alves monitorada pela câmera na esquina 2053163001
+Rua Hermílio Alves monitorada pela câmera na esquina 2053163001
+Rua Professor Roberto da Silva monitorada pela câmera na esquina 2053163001
+Rua Professor Roberto da Silva monitorada pela câmera na esquina 2053163001
+Travessa Osvaldo da Fonseca Torga monitorada pela câmera na esquina 410707376
+Rua Getúlio Vargas monitorada pela câmera na esquina 410707376
+Rua Santa Teresa monitorada pela câmera na esquina 410707376
+Rua Getúlio Vargas monitorada pela câmera na esquina 410707376
+Rua Getúlio Vargas monitorada pela câmera na esquina 410707432
+Rua Resende Costa monitorada pela câmera na esquina 410707432
+Rua Marechal Bittencourt monitorada pela câmera na esquina 410707432
+Rua José Veigas monitorada pela câmera na esquina 3616051833
+Rua Gentil Palhares monitorada pela câmera na esquina 3616051833
+Rua José Veigas monitorada pela câmera na esquina 3616051833
+Rua Resende Costa monitorada pela câmera na esquina 3616051833
+Rua Doutor José Mourão monitorada pela câmera na esquina 3209429967
+Rua do Cotovelo monitorada pela câmera na esquina 3209429967
+Rua Doutor José Mourão monitorada pela câmera na esquina 3209429967
+Praça Barão de Itambé monitorada pela câmera na esquina 3209429967
+Travessa Maestro Gustavo de Carvalho monitorada pela câmera na esquina 410707405
+Praça Francisco Neves monitorada pela câmera na esquina 410707405
+Rua Padre Lourival Salvo Rios monitorada pela câmera na esquina 410707405
+Rua Padre Lourival Salvo Rios monitorada pela câmera na esquina 410707405
+Rua Doutor Vicente Albergaria monitorada pela câmera na esquina 410707402
+Rua Doutor Mourão Filho monitorada pela câmera na esquina 410707402
+Rua Luís Bacarini monitorada pela câmera na esquina 410707402
+Rua Doutor João Salustiano monitorada pela câmera na esquina 410707402
+Rua Doutor José Bastos monitorada pela câmera na esquina 1527527522
+Rua Doutor José Bastos monitorada pela câmera na esquina 1527527522
+Rua Doutor Mourão Filho monitorada pela câmera na esquina 1527527522
+Rua Antônio Cirino Rodrigues monitorada pela câmera na esquina 1764561999
+Rua Antônio Cirino Rodrigues monitorada pela câmera na esquina 1764561999
+Rua Ernesto de Oliveira monitorada pela câmera na esquina 1764561999
+Rua Antônio Crino monitorada pela câmera na esquina 1764561999
+Praça Barão de Itambé monitorada pela câmera na esquina 3209444355
+Rua Padre Lourival Salvo Rios monitorada pela câmera na esquina 3209444355
+Rua Homem de Almeida monitorada pela câmera na esquina 3209444355
+Rua Beatriz Ambrosio Vieira monitorada pela câmera na esquina 3209444355
+Rua Padre Lourival Salvo Rios monitorada pela câmera na esquina 3209432009
+Praça Francisco Neves monitorada pela câmera na esquina 3209432009
+Rua Padre Lourival Salvo Rios monitorada pela câmera na esquina 1755770205
+['Travessa José Batista de Souza', 'Praça Professor José Batista de Souza'] monitorada pela câmera na esquina 1755770205
+Rua Santo Antônio monitorada pela câmera na esquina 410707448
+Rua Doutor Ribeiro da Silva monitorada pela câmera na esquina 410707448
+Rua Doutor Ribeiro da Silva monitorada pela câmera na esquina 410707448
+Rua Santo Antônio monitorada pela câmera na esquina 410707448
+Travessa Lopes monitorada pela câmera na esquina 410707422
+Rua João Mourão monitorada pela câmera na esquina 410707422
+Rua do Carmo monitorada pela câmera na esquina 410707422
+Rua do Carmo monitorada pela câmera na esquina 410707422
+Travessa Lopes monitorada pela câmera na esquina 410707439
+Rua João Jacobe monitorada pela câmera na esquina 410707439
+Rua João Jacobe monitorada pela câmera na esquina 410707439
+Praça Doutor Antônio Viegas monitorada pela câmera na esquina 410707424
+Rua Aureliano Raposo monitorada pela câmera na esquina 410707424
+Praça Doutor Antônio Viegas monitorada pela câmera na esquina 410707424
+Rua Maestro João Pequeno monitorada pela câmera na esquina 3209241995
+Rua Marechal Deodoro monitorada pela câmera na esquina 3209241995
+Rua Marechal Deodoro monitorada pela câmera na esquina 3209241995
+Rua Maestro João Pequeno monitorada pela câmera na esquina 3209241995
+Rua Manoel Anselmo monitorada pela câmera na esquina 2800906152
+Ponte do Rosário monitorada pela câmera na esquina 2800906152
+Avenida General Osório monitorada pela câmera na esquina 2800906152
+--Rua Sem Nome 33-- monitorada pela câmera na esquina 2800906152
+Rua Artur Bernardes monitorada pela câmera na esquina 410707437
+Rua Marechal Deodoro monitorada pela câmera na esquina 410707437
+Rua Marechal Deodoro monitorada pela câmera na esquina 410707437
+Avenida Presidente Tancredo Neves monitorada pela câmera na esquina 410707440
+Travessa Lopes monitorada pela câmera na esquina 410707440
+Avenida Presidente Tancredo Neves monitorada pela câmera na esquina 410707440
+Praça Doutor Antônio Viegas monitorada pela câmera na esquina 3209278533
+Rua Amélia Ribeiro Guedes monitorada pela câmera na esquina 3209278533
+Avenida Presidente Tancredo Neves monitorada pela câmera na esquina 410707578
+Avenida Presidente Tancredo Neves monitorada pela câmera na esquina 410707578
+--Rua Sem Nome 3-- monitorada pela câmera na esquina 410707578
+Avenida Eduardo Magalhães monitorada pela câmera na esquina 410707443
+Rua Maria Teresa monitorada pela câmera na esquina 410707443
+Rua Hermílio Alves monitorada pela câmera na esquina 410707443
+Rua Maria Teresa monitorada pela câmera na esquina 410707445
+Avenida Tiradentes monitorada pela câmera na esquina 410707445
+Avenida Tiradentes monitorada pela câmera na esquina 410707445
+Rua Maria Teresa monitorada pela câmera na esquina 410707445
+['Rua Quintino Bocaiuva', 'Rua Comendador Costa'] monitorada pela câmera na esquina 410707519
+Rua Comendador Costa monitorada pela câmera na esquina 410707519
+Rua Conselheiro Belizário Leite Andrade monitorada pela câmera na esquina 410707519
+Rua General João Faria monitorada pela câmera na esquina 410707463
+Avenida Nossa Senhora do Pilar monitorada pela câmera na esquina 410707463
+Avenida Nossa Senhora do Pilar monitorada pela câmera na esquina 410707463
+Rua General João Faria monitorada pela câmera na esquina 410707463
+Avenida Nossa Senhora do Pilar monitorada pela câmera na esquina 1537812508
+Rua Sargento Wilson Ramos monitorada pela câmera na esquina 1537812508
+Rua Sargento Wilson Ramos monitorada pela câmera na esquina 1537812508
+Rua Alfredo Luiz Ratton monitorada pela câmera na esquina 410707477
+Avenida Tiradentes monitorada pela câmera na esquina 410707477
+Avenida Tiradentes monitorada pela câmera na esquina 410707477
+Rua Alfredo Luiz Ratton monitorada pela câmera na esquina 410707477
+Rua Aureliano Mourão monitorada pela câmera na esquina 1537812511
+Avenida Tiradentes monitorada pela câmera na esquina 1537812511
+Rua Aureliano Mourão monitorada pela câmera na esquina 1537812511
+Rua Ministro Gabriel Passos monitorada pela câmera na esquina 410707521
+Avenida Tiradentes monitorada pela câmera na esquina 410707521
+Rua Doutor Balbino da Cunha monitorada pela câmera na esquina 3611186892
+Rua Doutor Balbino da Cunha monitorada pela câmera na esquina 3611186892
+Rua Luís Bacarini monitorada pela câmera na esquina 3611186892
+Rua Comendador Bastos monitorada pela câmera na esquina 410707526
+Rua Comendador Bastos monitorada pela câmera na esquina 410707526
+Avenida Andrade Reis monitorada pela câmera na esquina 410707526
+Avenida Nossa Senhora do Pilar monitorada pela câmera na esquina 410707526
+Rua Comendador Bastos monitorada pela câmera na esquina 1537807507
+Avenida Nossa Senhora do Pilar monitorada pela câmera na esquina 1537807507
+Avenida Andrade Reis monitorada pela câmera na esquina 1537807507
+Avenida Tiradentes monitorada pela câmera na esquina 410707528
+Avenida Tiradentes monitorada pela câmera na esquina 410707528
+Avenida Andrade Reis monitorada pela câmera na esquina 410707528
+Avenida Andrade Reis monitorada pela câmera na esquina 1537807522
+Rua Comendador Costa monitorada pela câmera na esquina 410707537
+Rua Padre Sacramento monitorada pela câmera na esquina 410707537
+Rua Padre Sacramento monitorada pela câmera na esquina 410707537
+Avenida 8 de Dezembro monitorada pela câmera na esquina 410707537
+Rua Comendador Costa monitorada pela câmera na esquina 410707866
+Avenida 8 de Dezembro monitorada pela câmera na esquina 410707866
+Rua Padre Sacramento monitorada pela câmera na esquina 410707866
+Avenida Presidente Tancredo Neves monitorada pela câmera na esquina 3000897637
+Rua José Leite de Andrade monitorada pela câmera na esquina 3000897637
+Avenida Presidente Tancredo Neves monitorada pela câmera na esquina 3000897637
+Rua Amélia Ribeiro Guedes monitorada pela câmera na esquina 3612976733
+Avenida Presidente Tancredo Neves monitorada pela câmera na esquina 3612976733
+Rua Paulo Freitas monitorada pela câmera na esquina 3610788762
+Rua Professor Jorge Zarur monitorada pela câmera na esquina 3610788762
+Praça Raul Soares monitorada pela câmera na esquina 3610788762
+Praça Raul Soares monitorada pela câmera na esquina 3610788762
+Rua Hermílio Alves monitorada pela câmera na esquina 1432867404
+Avenida Eduardo Magalhães monitorada pela câmera na esquina 1432867404
+Rua Padre José Maria Xavier monitorada pela câmera na esquina 1432867404
+Rua Padre Rocha monitorada pela câmera na esquina 2800906160
+Praça Doutor Fausto Mourão monitorada pela câmera na esquina 2800906160
+Rua Modestino Ribeiro monitorada pela câmera na esquina 2800906160
+Rua Padre Rocha monitorada pela câmera na esquina 2800906160
+Praça Doutor Guilherme Milward monitorada pela câmera na esquina 1527527528
+Rua Ribeiro Bastos monitorada pela câmera na esquina 1527527528
+Rua Tenente Mário César Lopes monitorada pela câmera na esquina 1527527528
+Rua João da Mata monitorada pela câmera na esquina 1527527528
+Rua Doutor José Bastos monitorada pela câmera na esquina 1527527571
+Rua Doutor Balbino da Cunha monitorada pela câmera na esquina 1527527571
+Praça Frei Orlando monitorada pela câmera na esquina 1527527571
+Rua Aureliano Mourão monitorada pela câmera na esquina 1527527571
+Rua Comendador Bastos monitorada pela câmera na esquina 1537812502
+Rua Comendador Bastos monitorada pela câmera na esquina 1537812502
+Rua Comendador Bastos monitorada pela câmera na esquina 1537812473
+Avenida Nossa Senhora do Pilar monitorada pela câmera na esquina 1537812473
+Avenida General Osório monitorada pela câmera na esquina 2800906155
+Rua Modestino Ribeiro monitorada pela câmera na esquina 2800906155
+Rua Modestino Rabelo monitorada pela câmera na esquina 2800906155
+Avenida General Osório monitorada pela câmera na esquina 2800906155
+--Rua Sem Nome 137-- monitorada pela câmera na esquina 3611104727
+Rua Comendador Bastos monitorada pela câmera na esquina 3611104727
+Rua Padre José Pedro monitorada pela câmera na esquina 3611104727
+Rua Doutor Garcia de Lima monitorada pela câmera na esquina 3208802824
+Rua Doutor Garcia de Lima monitorada pela câmera na esquina 3208802824
+Avenida Nossa Senhora do Pilar monitorada pela câmera na esquina 3208802824
+Rua Sargento Wilson Ramos monitorada pela câmera na esquina 1764538493
+Rua Prefeito Nascimento Teixeira monitorada pela câmera na esquina 1764538493
+Rua Prefeito Nascimento Teixeira monitorada pela câmera na esquina 1764538493
+Rua Padre José Maria Xavier monitorada pela câmera na esquina 3206672875
+Avenida Tiradentes monitorada pela câmera na esquina 3206672875
+Rua Delegado José Lima monitorada pela câmera na esquina 1752056058
+Rua Paulo Bastone monitorada pela câmera na esquina 1752056058
+--Rua Sem Nome 127-- monitorada pela câmera na esquina 1752056058
+['Rua Delegado José Lima', 'Rua Ubá'] monitorada pela câmera na esquina 1752056058
+Rua Vereador Vicente Cantelmo monitorada pela câmera na esquina 3612842123
+Rua Afonso Marcelino da Silveira monitorada pela câmera na esquina 3612842123
+['Rua Ubá', 'Rua Vereador Vicente Cantelmo'] monitorada pela câmera na esquina 3612842123
+['Rua Frederico Ozanan', 'Rua Vereador Vicente Cantelmo'] monitorada pela câmera na esquina 3612842122
+Rua Delegado José Lima monitorada pela câmera na esquina 3612842122
+Rua Pedro Nolasco do Nascimento monitorada pela câmera na esquina 3612842122
+Rua Frederico Ozanan monitorada pela câmera na esquina 3612842122
+Rua Carvalho Resende monitorada pela câmera na esquina 1752072182
+--Rua Sem Nome 96-- monitorada pela câmera na esquina 1752072182
+Rua Carvalho Resende monitorada pela câmera na esquina 1752072182
+Rua Luiz Cardoso monitorada pela câmera na esquina 1752072182
+--Rua Sem Nome 32-- monitorada pela câmera na esquina 1752079778
+Rua Geraldo C. Almeida monitorada pela câmera na esquina 1752079778
+Rua Geraldo C. Almeida monitorada pela câmera na esquina 1752079778
+--Rua Sem Nome 29-- monitorada pela câmera na esquina 1752079778
+Rua Padre Faustino monitorada pela câmera na esquina 1752079744
+Travessa Castro monitorada pela câmera na esquina 1752079744
+Rua Padre Faustino monitorada pela câmera na esquina 1752079744
+Alameda do Castro monitorada pela câmera na esquina 1752079744
+--Rua Sem Nome 85-- monitorada pela câmera na esquina 3611297288
+Praça Bonfim monitorada pela câmera na esquina 3611297288
+Rua José Santana da Silva monitorada pela câmera na esquina 3611297288
+Praça Bonfim monitorada pela câmera na esquina 3611297288
+Rua Altamiro Flor monitorada pela câmera na esquina 1755128035
+Rua Altamiro Flor monitorada pela câmera na esquina 1755128035
+Rua José Valentim da Silva monitorada pela câmera na esquina 1755128035
+Rua José Valentim da Silva monitorada pela câmera na esquina 1755128035
+Rua Santo Elias monitorada pela câmera na esquina 1755128050
+Rua Santo Elias monitorada pela câmera na esquina 1755128050
+Rua Getúlio Vargas monitorada pela câmera na esquina 1755128050
+Avenida 8 de Dezembro monitorada pela câmera na esquina 1755729254
+Rua Dona Ilaurina Laudares Silva monitorada pela câmera na esquina 1755729254
+Rua Dona Ilaurina Laudares Silva monitorada pela câmera na esquina 1755729254
+Avenida 8 de Dezembro monitorada pela câmera na esquina 1755729254
+Rua Ana de Oliveira Silva monitorada pela câmera na esquina 1755729505
+Rua Ana de Oliveira Silva monitorada pela câmera na esquina 1755729505
+Rua Geraldo Canário monitorada pela câmera na esquina 1755729505
+Rua Geraldo Canário monitorada pela câmera na esquina 1755729505
+Rua Luiz Carlos Nascimento monitorada pela câmera na esquina 3612859441
+Rua Joaquim Rodrigues Vale monitorada pela câmera na esquina 3612859441
+Rua Luiz Carlos Nascimento monitorada pela câmera na esquina 3612859441
+Rua Joaquim Rodrigues Vale monitorada pela câmera na esquina 3612859441
+Rua Carvalhoo Campos monitorada pela câmera na esquina 1755729495
+Rua Carvalhoo Campos monitorada pela câmera na esquina 1755729495
+Avenida 8 de Dezembro monitorada pela câmera na esquina 1755729495
+Rua Francisco de Assis Cunha monitorada pela câmera na esquina 1763815927
+Rua Armênio Reis monitorada pela câmera na esquina 1763815927
+Rua Armênio Reis monitorada pela câmera na esquina 1763815927
+Rua Afonso Marcelino da Silveira monitorada pela câmera na esquina 1763815927
+Rua Ferroviário Miguel Ferreira monitorada pela câmera na esquina 1755770195
+Rua Ferroviário Miguel Ferreira monitorada pela câmera na esquina 1755770195
+Rua Maestro Batista Lopes monitorada pela câmera na esquina 1755770195
+Rua Maestro Batista Lopes monitorada pela câmera na esquina 1755770195
+Rua Emília Batista de Carvalho Nascimento monitorada pela câmera na esquina 3616159977
+Rua Afonsina Alvarenga monitorada pela câmera na esquina 3616159977
+Rua Inácio Alvarenga monitorada pela câmera na esquina 3616159977
+Rua José Martins Garcia monitorada pela câmera na esquina 1755775714
+Rua João Rosa monitorada pela câmera na esquina 1755775714
+Rua João Rosa monitorada pela câmera na esquina 1755775714
+Rua José Martins Garcia monitorada pela câmera na esquina 1755775714
+Rua João Henrique monitorada pela câmera na esquina 1755775718
+Rua João Rosa monitorada pela câmera na esquina 1755775718
+Rua João Henrique monitorada pela câmera na esquina 1755775718
+Rua Francisco Reinaldo monitorada pela câmera na esquina 3220630382
+['Rua Itabirito', 'Rua Antônio de Moura Carvalho'] monitorada pela câmera na esquina 3220630382
+Rua Francisco Reinaldo monitorada pela câmera na esquina 3220630382
+Rua Antônio de Moura Carvalho monitorada pela câmera na esquina 3220630382
+Rua Escrivão Farense Silva monitorada pela câmera na esquina 3611297274
+Rua Escrivão Farense Silva monitorada pela câmera na esquina 3611297274
+Rua João Manoel Teixeira monitorada pela câmera na esquina 3611297274
+Praça Bonfim monitorada pela câmera na esquina 3611297274
+Rua João Rosa monitorada pela câmera na esquina 3131570282
+Rua Antônio de Assis monitorada pela câmera na esquina 3131570282
+Rua João Rosa monitorada pela câmera na esquina 3131570282
+Rua Antônio de Assis monitorada pela câmera na esquina 3131570282
+Rua Ribeiro Bastos monitorada pela câmera na esquina 1761724864
+Rua Padre José Maria Xavier monitorada pela câmera na esquina 1761724864
+Rua Padre José Maria Xavier monitorada pela câmera na esquina 1761724864
+--Rua Sem Nome 40-- monitorada pela câmera na esquina 3206672874
+--Rua Sem Nome 38-- monitorada pela câmera na esquina 3206672874
+Rua Maestro Telemâco Neves monitorada pela câmera na esquina 1764559207
+Rua Maestro Telemâco Neves monitorada pela câmera na esquina 1764559207
+Avenida General Osório monitorada pela câmera na esquina 1764559207
+Rua Rossini Bacarini monitorada pela câmera na esquina 2800906159
+Rua Rossini Bacarini monitorada pela câmera na esquina 2800906159
+--Rua Sem Nome 22-- monitorada pela câmera na esquina 1763815930
+Rua Rossini Bacarini monitorada pela câmera na esquina 1763815930
+Rua Rossini Bacarini monitorada pela câmera na esquina 1763815930
+Rua Afonsina Alvarenga monitorada pela câmera na esquina 1763815930
+Avenida General Osório monitorada pela câmera na esquina 1763815942
+Rua Afonsina Alvarenga monitorada pela câmera na esquina 1763815942
+Avenida General Osório monitorada pela câmera na esquina 1763815942
+Avenida General Osório monitorada pela câmera na esquina 1763815947
+Rua Rossini Bacarini monitorada pela câmera na esquina 1763815947
+--Rua Sem Nome 41-- monitorada pela câmera na esquina 1763815947
+Rua Afonsina Alvarenga monitorada pela câmera na esquina 3615889048
+Rua Afonsina Alvarenga monitorada pela câmera na esquina 3615889048
+Rua Santo Antônio monitorada pela câmera na esquina 3615889048
+Rua Santo Antônio monitorada pela câmera na esquina 3615889048
+Rua Ricardo Geraldo dos Santos monitorada pela câmera na esquina 1764562006
+Rua Altamiro Flor monitorada pela câmera na esquina 1764562006
+Rua Altamiro Flor monitorada pela câmera na esquina 1764562006
+Rua Antônio Cirino Rodrigues monitorada pela câmera na esquina 1764562006
+Rua Carvalho Resende monitorada pela câmera na esquina 1764749672
+Rua Engenheiro Bicalho monitorada pela câmera na esquina 1764749672
+Rua Carvalho Resende monitorada pela câmera na esquina 1764749672
+Rua Aldo Zerlotine monitorada pela câmera na esquina 3214297386
+Praça Raul Soares monitorada pela câmera na esquina 3214297386
+Rua Gomes Pedroso monitorada pela câmera na esquina 2800906132
+Rua Frei Norberto monitorada pela câmera na esquina 2800906132
+Rua Getúlio Vargas monitorada pela câmera na esquina 2800906132
+Avenida 8 de Dezembro monitorada pela câmera na esquina 3611104711
+--Rua Sem Nome 134-- monitorada pela câmera na esquina 3611104711
+Avenida 8 de Dezembro monitorada pela câmera na esquina 3611104711
+Rua da Prefeitura monitorada pela câmera na esquina 3611104711
+Avenida Presidente Tancredo Neves monitorada pela câmera na esquina 3214297385
+Praça Raul Soares monitorada pela câmera na esquina 3214297385
+Praça Raul Soares monitorada pela câmera na esquina 3214297385
+Avenida Eduardo Magalhães monitorada pela câmera na esquina 410707326
+Rua Antônio Rocha monitorada pela câmera na esquina 3208868480
+--Rua Sem Nome 42-- monitorada pela câmera na esquina 3209250775
+Rua Manoel Anselmo monitorada pela câmera na esquina 3209250775
+Rua Hermílio Alves monitorada pela câmera na esquina 410707368
+--Rua Sem Nome 5-- monitorada pela câmera na esquina 410707368
+Rua Antônio Rocha monitorada pela câmera na esquina 410707594
+Rua Antônio Rocha monitorada pela câmera na esquina 410707594
+Travessa Osvaldo da Fonseca Torga monitorada pela câmera na esquina 3615939332
+Rua Santa Teresa monitorada pela câmera na esquina 410707378
+Travessa Graça monitorada pela câmera na esquina 410707381
+Rua Gentil Palhares monitorada pela câmera na esquina 410707381
+Praça Barão de Itambé monitorada pela câmera na esquina 3209432008
+Rua Gentil Palhares monitorada pela câmera na esquina 3616051848
+Travessa João Palmiro Fazzion monitorada pela câmera na esquina 3616051848
+--Rua Sem Nome 110-- monitorada pela câmera na esquina 410707385
+Rua Resende Costa monitorada pela câmera na esquina 410707385
+Rua Resende Costa monitorada pela câmera na esquina 410707385
+Rua Resende Costa monitorada pela câmera na esquina 3616051834
+Rua Vigário Amâncio monitorada pela câmera na esquina 410707387
+Rua Vigário Amâncio monitorada pela câmera na esquina 410707387
+Rua Doutor José Mourão monitorada pela câmera na esquina 410707389
+Rua Doutor José Mourão monitorada pela câmera na esquina 410707389
+Rua Getúlio Vargas monitorada pela câmera na esquina 410707393
+Rua Getúlio Vargas monitorada pela câmera na esquina 3209250774
+Rua Professor Pedro Raposo monitorada pela câmera na esquina 1764538751
+Rua Doutor Vicente Albergaria monitorada pela câmera na esquina 1764538751
+Rua Gonçalves Coelho monitorada pela câmera na esquina 8086864103
+Rua Luís Bacarini monitorada pela câmera na esquina 8086864103
+Rua Doutor José Bastos monitorada pela câmera na esquina 1527527515
+Praça Doutor Guilherme Milward monitorada pela câmera na esquina 1527527515
+Rua Padre Lourival Salvo Rios monitorada pela câmera na esquina 410707403
+Rua Padre Lourival Salvo Rios monitorada pela câmera na esquina 410707411
+Rua Monsenhor Gustavo monitorada pela câmera na esquina 410707415
+Praça Professor José Batista de Souza monitorada pela câmera na esquina 410707415
+Rua Getúlio Vargas monitorada pela câmera na esquina 410707413
+Rua Getúlio Vargas monitorada pela câmera na esquina 3209241996
+Praça Embaixador Gastão da Cunha monitorada pela câmera na esquina 410707418
+Praça Embaixador Gastão da Cunha monitorada pela câmera na esquina 8375005163
+Rua Frei Norberto monitorada pela câmera na esquina 3615215492
+Rua João Mourão monitorada pela câmera na esquina 3615215492
+Rua do Carmo monitorada pela câmera na esquina 3209381522
+Travessa Osvaldo da Fonseca Torga monitorada pela câmera na esquina 3209381522
+Rua Aureliano Raposo monitorada pela câmera na esquina 3615797630
+Alameda Carlos Sanzio monitorada pela câmera na esquina 3615797630
+Rua Marechal Deodoro monitorada pela câmera na esquina 410707430
+Rua Sebastião Sette monitorada pela câmera na esquina 410707430
+Rua Barão do Rio Branco monitorada pela câmera na esquina 1537807545
+--Rua Sem Nome 25-- monitorada pela câmera na esquina 1537807545
+Rua Marechal Bittencourt monitorada pela câmera na esquina 1537807508
+Rua Manoel Anselmo monitorada pela câmera na esquina 410707433
+Rua Vereadora Alba Lombardi monitorada pela câmera na esquina 3208839959
+Rua Comendador Bastos monitorada pela câmera na esquina 410707447
+Rua Comendador Bastos monitorada pela câmera na esquina 410707447
+Ladeira Tenente Vilas Boas monitorada pela câmera na esquina 1537807516
+Praça Duque de Caxias monitorada pela câmera na esquina 1537807516
+Rua Maestro Batista Lopes monitorada pela câmera na esquina 3209232205
+Rua Maestro Batista Lopes monitorada pela câmera na esquina 3209232205
+Travessa Roque Teixeira Neto monitorada pela câmera na esquina 3616159980
+Rua Santo Antônio monitorada pela câmera na esquina 3616159980
+Rua Ribeiro Bastos monitorada pela câmera na esquina 410707460
+Rua Ribeiro Bastos monitorada pela câmera na esquina 410707460
+Rua Frei Estevão monitorada pela câmera na esquina 1755729538
+Rua Ribeiro Bastos monitorada pela câmera na esquina 1755729538
+Rua Irmã Eugênia Luz Pinto monitorada pela câmera na esquina 8374844538
+Avenida Nossa Senhora do Pilar monitorada pela câmera na esquina 1537812512
+Rua Hermílio Alves monitorada pela câmera na esquina 410707473
+--Rua Sem Nome 136-- monitorada pela câmera na esquina 8087913549
+Avenida Andrade Reis monitorada pela câmera na esquina 8087913549
+Rua Padre Sacramento monitorada pela câmera na esquina 3610814911
+Rua Padre Sacramento monitorada pela câmera na esquina 3610814911
+Rua Padre Sacramento monitorada pela câmera na esquina 410707541
+Rua Padre Sacramento monitorada pela câmera na esquina 410707541
+Rua Alexandre Bacil monitorada pela câmera na esquina 1764785004
+Travessa Augusto Gode monitorada pela câmera na esquina 410707736
+Rua Paulo Freitas monitorada pela câmera na esquina 410707736
+Avenida Eduardo Magalhães monitorada pela câmera na esquina 8377388691
+Rua Padre José Maria Xavier monitorada pela câmera na esquina 8377388691
+Rua Domingos Camarano monitorada pela câmera na esquina 1432867408
+Avenida Eduardo Magalhães monitorada pela câmera na esquina 1432867408
+Praça Doutor Fausto Mourão monitorada pela câmera na esquina 1755744279
+Rua Domingos Camarano monitorada pela câmera na esquina 1755744279
+--Rua Sem Nome 36-- monitorada pela câmera na esquina 3206626640
+Praça Doutor Guilherme Milward monitorada pela câmera na esquina 1764538583
+Rua Doutor Basílio de Magalhães monitorada pela câmera na esquina 1752056125
+Rua Tenente Mário César Lopes monitorada pela câmera na esquina 1752079849
+Rua João da Mata monitorada pela câmera na esquina 1764582172
+--Rua Sem Nome 135-- monitorada pela câmera na esquina 1764582172
+Rua Carvalhoo Campos monitorada pela câmera na esquina 1527527589
+Rua Doutor Antônio da Silva Rios monitorada pela câmera na esquina 1527527589
+Rua Coronel Elpídio Gonçalves da Costa monitorada pela câmera na esquina 1527527589
+Rua Felipe Marchetti monitorada pela câmera na esquina 3610822404
+Rua Comendador Bastos monitorada pela câmera na esquina 8110699026
+Ladeira Tenente Vilas Boas monitorada pela câmera na esquina 1763813660
+--Rua Sem Nome 81-- monitorada pela câmera na esquina 1763813660
+Rua João Jacobe monitorada pela câmera na esquina 1537807535
+Rua Hermílio Alves monitorada pela câmera na esquina 1537807544
+Avenida General Osório monitorada pela câmera na esquina 1537812483
+--Rua Sem Nome 24-- monitorada pela câmera na esquina 1537812483
+Travessa General Osório monitorada pela câmera na esquina 1537812503
+Rua Rossini Bacarini monitorada pela câmera na esquina 1763815946
+Avenida Nossa Senhora do Pilar monitorada pela câmera na esquina 3611226739
+Rua Padre José Maria Xavier monitorada pela câmera na esquina 1537812514
+Rua Frederico Ozanan monitorada pela câmera na esquina 1752056037
+Praça Doutor Fausto Mourão monitorada pela câmera na esquina 1752056037
+Rua Frederico Ozanan monitorada pela câmera na esquina 8375188699
+Rua Elisena Rodrigues da Silva monitorada pela câmera na esquina 8375188699
+Praça Doutor Fausto Mourão monitorada pela câmera na esquina 3612842121
+Rua Antônio José Gomes Carneiro monitorada pela câmera na esquina 3612842121
+Rua Delegado José Lima monitorada pela câmera na esquina 1752056051
+Rua Contador Sebastião Mendes monitorada pela câmera na esquina 1752056051
+Rua João Félix Teixeira monitorada pela câmera na esquina 1764588787
+Rua Delegado José Lima monitorada pela câmera na esquina 1764588787
+Rua Ana de Oliveira Silva monitorada pela câmera na esquina 8374844546
+Rua Ana de Oliveira Silva monitorada pela câmera na esquina 7549163925
+Rua Ana de Oliveira Silva monitorada pela câmera na esquina 7549163925
+Rua Ubá monitorada pela câmera na esquina 3612786098
+--Rua Sem Nome 94-- monitorada pela câmera na esquina 3612786098
+Rua São Caetano monitorada pela câmera na esquina 1752056068
+Rua Padre Guestor monitorada pela câmera na esquina 1752056068
+['Rua Gustavo Alves Braga', 'Rua São Caetano'] monitorada pela câmera na esquina 1752056068
+Rua Padre Rocha monitorada pela câmera na esquina 3209516678
+Rua Delegado José Lima monitorada pela câmera na esquina 2800906172
+Rua Prefeito Nascimento Teixeira monitorada pela câmera na esquina 1752056091
+Rua Doutor Basílio de Magalhães monitorada pela câmera na esquina 1752056091
+Rua Doutor Basílio de Magalhães monitorada pela câmera na esquina 1752056091
+Rua Doutor Basílio de Magalhães monitorada pela câmera na esquina 1752056127
+Rua Sílvio Magalhães monitorada pela câmera na esquina 1752056127
+Rua Gustavo Alves Braga monitorada pela câmera na esquina 1752056109
+Rua Vereador Vicente Cantelmo monitorada pela câmera na esquina 1752056109
+Rua Vereador Vicente Cantelmo monitorada pela câmera na esquina 1755729544
+Rua Francisco de Assis Cunha monitorada pela câmera na esquina 1755729544
+Rua Doutor Basílio de Magalhães monitorada pela câmera na esquina 1752056118
+--Rua Sem Nome 140-- monitorada pela câmera na esquina 8086927059
+['Avenida Nossa Senhora do Pilar', 'Rua Doutor Basílio de Magalhães'] monitorada pela câmera na esquina 8086927059
+Rua Doutor Basílio de Magalhães monitorada pela câmera na esquina 3611214300
+Rua Vila Reis monitorada pela câmera na esquina 3611214300
+Rua Riachuelo monitorada pela câmera na esquina 3611214297
+Rua Carvalho Resende monitorada pela câmera na esquina 2800906130
+Travessa Castro monitorada pela câmera na esquina 3615735448
+Rua Rodrigues de Melo monitorada pela câmera na esquina 1755744272
+Rua Coronel Tamarindo monitorada pela câmera na esquina 1755744272
+Rua Coronel Tamarindo monitorada pela câmera na esquina 3613405884
+Rua Fiscal Casimiro Rios monitorada pela câmera na esquina 3613405884
+Rua Coronel Tamarindo monitorada pela câmera na esquina 3613405884
+Rua Padre Faustino monitorada pela câmera na esquina 1752079714
+Rua Padre Faustino monitorada pela câmera na esquina 1752079714
+Rua Severo Carazza monitorada pela câmera na esquina 1752079714
+Rua Professora Eugênia Vieira de Souza monitorada pela câmera na esquina 3615730043
+Rua Professora Eugênia Vieira de Souza monitorada pela câmera na esquina 3615730043
+Rua José Gontijo de Lima monitorada pela câmera na esquina 3209188873
+Rua Severo Carazza monitorada pela câmera na esquina 3615730048
+Travessa Padre Faustino monitorada pela câmera na esquina 3615730048
+['Rua Expedicionário Geraldo Soares', 'Rua Geraldo Pinto Lima'] monitorada pela câmera na esquina 1752079715
+Rua Geraldo Pinto Lima monitorada pela câmera na esquina 1752079715
+--Rua Sem Nome 9-- monitorada pela câmera na esquina 1752079715
+Rua José Santana da Silva monitorada pela câmera na esquina 3208905392
+Rua Expedicionário Geraldo Soares monitorada pela câmera na esquina 3208905392
+--Rua Sem Nome 10-- monitorada pela câmera na esquina 1752079819
+Rua Geraldo Pinto Lima monitorada pela câmera na esquina 1752079819
+Rua Nina Barbosa Neves monitorada pela câmera na esquina 3611376141
+--Rua Sem Nome 89-- monitorada pela câmera na esquina 3611376141
+Rua José Antônio Pereira monitorada pela câmera na esquina 1752079723
+--Rua Sem Nome 91-- monitorada pela câmera na esquina 2053163002
+Rua I monitorada pela câmera na esquina 1752079726
+Rua Geraldo C. Almeida monitorada pela câmera na esquina 1752079726
+--Rua Sem Nome 93-- monitorada pela câmera na esquina 3611376162
+Rua Geraldo C. Almeida monitorada pela câmera na esquina 3611376162
+Rua Geraldo C. Almeida monitorada pela câmera na esquina 1752079737
+Rua Geraldo C. Almeida monitorada pela câmera na esquina 1752079737
+--Rua Sem Nome 12-- monitorada pela câmera na esquina 1752079737
+Rua Carmélio Rubens monitorada pela câmera na esquina 1752079765
+['Rua Nina Barbosa Neves', 'Rua Carmélio Rubens'] monitorada pela câmera na esquina 1752079765
+Rua Geraldo Pinto Lima monitorada pela câmera na esquina 1752079750
+Rua Antônio M. C. Filho monitorada pela câmera na esquina 1752079750
+Rua Maria R. Carvalho monitorada pela câmera na esquina 1764783024
+Rua Geraldo Pinto Lima monitorada pela câmera na esquina 1764783024
+--Rua Sem Nome 92-- monitorada pela câmera na esquina 3611376178
+Rua Antônio M. C. Filho monitorada pela câmera na esquina 3611376178
+Rua A M monitorada pela câmera na esquina 1764782979
+Rua Nina Barbosa Neves monitorada pela câmera na esquina 1764782979
+Rua João Magalhães monitorada pela câmera na esquina 8377303703
+Rua Severo Carazza monitorada pela câmera na esquina 8377303703
+Rua João Magalhães monitorada pela câmera na esquina 8377303703
+Rua Nina Barbosa Neves monitorada pela câmera na esquina 1752079860
+--Rua Sem Nome 101-- monitorada pela câmera na esquina 1752079815
+--Rua Sem Nome 102-- monitorada pela câmera na esquina 3615841251
+--Rua Sem Nome 104-- monitorada pela câmera na esquina 3615841251
+Rua Expedicionário Geraldo Soares monitorada pela câmera na esquina 1752079840
+--Rua Sem Nome 126-- monitorada pela câmera na esquina 3611297287
+Rua Altamiro Flor monitorada pela câmera na esquina 3617482454
+Travessa Andrelândia monitorada pela câmera na esquina 3617482454
+['Rua Lavras', 'Rua Ipraí'] monitorada pela câmera na esquina 3617532685
+Rua Ipraí monitorada pela câmera na esquina 3617532685
+Rua Laudelino do Nascimento monitorada pela câmera na esquina 3616180745
+Rua José Valentim da Silva monitorada pela câmera na esquina 3616180745
+Rua José Valentim da Silva monitorada pela câmera na esquina 3616180769
+--Rua Sem Nome 108-- monitorada pela câmera na esquina 3615992815
+Rua Altamiro Flor monitorada pela câmera na esquina 3615992815
+Avenida 8 de Dezembro monitorada pela câmera na esquina 3213890568
+Praça Doutor Fausto Mourão monitorada pela câmera na esquina 1755729280
+Rua Luiz Carlos Nascimento monitorada pela câmera na esquina 1755729286
+Rua Ernestina Braga Martins monitorada pela câmera na esquina 1755729286
+Rua Ernestina Braga Martins monitorada pela câmera na esquina 1755729286
+Rua Uruguai monitorada pela câmera na esquina 3135107124
+Rua Ana de Oliveira Silva monitorada pela câmera na esquina 1755729528
+Rua Padre Rocha monitorada pela câmera na esquina 1755729297
+Rua Padre Rocha monitorada pela câmera na esquina 1755729297
+Rua Evandro Ávila monitorada pela câmera na esquina 1755729303
+Rua Antônio Alves de Aquino monitorada pela câmera na esquina 1755729303
+Rua Antônio Alves de Aquino monitorada pela câmera na esquina 1755729303
+Rua Doutor Carlos Velasco monitorada pela câmera na esquina 1755775742
+Rua Evandro Ávila monitorada pela câmera na esquina 1755775742
+Rua Frei Estevão monitorada pela câmera na esquina 1755729506
+Rua Rubens Santiago dos Santos monitorada pela câmera na esquina 1755729506
+Rua Odete Resende Mattar monitorada pela câmera na esquina 3611247068
+Rua Antônio Alves de Aquino monitorada pela câmera na esquina 3611247068
+Rua Ana de Oliveira Silva monitorada pela câmera na esquina 1755729310
+Rua Alexandro Agostini monitorada pela câmera na esquina 1755729310
+Rua Alexandro Agostini monitorada pela câmera na esquina 1755729315
+Rua Edgar Resende Rios monitorada pela câmera na esquina 1755729508
+Rua Edgar Resende Rios monitorada pela câmera na esquina 1755729508
+Rua Santo Antônio monitorada pela câmera na esquina 1755729412
+Rua Modestino Rabelo monitorada pela câmera na esquina 1755729412
+Rua Santo Antônio monitorada pela câmera na esquina 3209523297
+Rua Antônio Leôncio monitorada pela câmera na esquina 3209523298
+Rua Geraldo Teodoro de Resende monitorada pela câmera na esquina 7839913786
+Rua Geraldo Teodoro de Resende monitorada pela câmera na esquina 7839913786
+Rua Geraldo Canário monitorada pela câmera na esquina 1755729467
+Rua Elias Isaac monitorada pela câmera na esquina 1755729467
+Rua Jornalista Roberto Silva monitorada pela câmera na esquina 1764588781
+Rua Doutor Carlos Velasco monitorada pela câmera na esquina 1755775794
+Rua Frei Estevão monitorada pela câmera na esquina 1755775794
+Rua Rubens Santiago dos Santos monitorada pela câmera na esquina 3278703854
+Rua Rubens Santiago dos Santos monitorada pela câmera na esquina 3278703854
+Rua Edgar Resende Rios monitorada pela câmera na esquina 8375005157
+Rua Frei Estevão monitorada pela câmera na esquina 1764587726
+Rua Professora Gilda Fonseca Teixeira monitorada pela câmera na esquina 1764587726
+Rua Rubens Santiago dos Santos monitorada pela câmera na esquina 1755729539
+Rua Antônio Onofre da Rocha monitorada pela câmera na esquina 1755729539
+Rua Padre Miguel Afonso de Andrade monitorada pela câmera na esquina 3612720721
+['Rua Domingos Camarano', 'Rua Padre Miguel Afonso de Andrade'] monitorada pela câmera na esquina 3612720721
+Rua Armênio Reis monitorada pela câmera na esquina 8377467357
+Rua Vereador Vicente Cantelmo monitorada pela câmera na esquina 8377467357
+Rua Francisco de Assis Cunha monitorada pela câmera na esquina 1763815925
+Rua Lourival José dos Santos monitorada pela câmera na esquina 1763815925
+Rua Rodrigues de Melo monitorada pela câmera na esquina 1755744263
+Rua Rodrigues de Melo monitorada pela câmera na esquina 1755744263
+Rua Farmacêutico Desidério Rodarte monitorada pela câmera na esquina 1755744264
+Rua Rodrigues de Melo monitorada pela câmera na esquina 1755744264
+Rua Fiscal Antônio Damaso monitorada pela câmera na esquina 1764542544
+Rua Coronel Tamarindo monitorada pela câmera na esquina 1764542544
+Rua Francisco Reinaldo monitorada pela câmera na esquina 1755762580
+Rua do Ouro monitorada pela câmera na esquina 1755762580
+Rua do Ouro monitorada pela câmera na esquina 1755762580
+--Rua Sem Nome 120-- monitorada pela câmera na esquina 3617579885
+Rua do Ouro monitorada pela câmera na esquina 3616180772
+Travessa do Ouro monitorada pela câmera na esquina 3617579873
+Rua do Ouro monitorada pela câmera na esquina 3617579873
+Rua José Valentim da Silva monitorada pela câmera na esquina 1755762675
+Rua José Valentim da Silva monitorada pela câmera na esquina 1755762675
+Rua Sebastião Neri monitorada pela câmera na esquina 3617482445
+--Rua Sem Nome 27-- monitorada pela câmera na esquina 1764588780
+Rua José Valentim da Silva monitorada pela câmera na esquina 1764588780
+Praça Professor José Batista de Souza monitorada pela câmera na esquina 1755770190
+Rua Fernando Caldas monitorada pela câmera na esquina 3616159981
+Rua Fernando Caldas monitorada pela câmera na esquina 3616159981
+Rua Maestro Batista Lopes monitorada pela câmera na esquina 1764559216
+Rua José do Patrocínio monitorada pela câmera na esquina 1764559216
+Rua Maestro Batista Lopes monitorada pela câmera na esquina 1755770224
+['Travessa Fernando Caldas', 'Rua Fernando Caldas'] monitorada pela câmera na esquina 1755770224
+Rua Fernando Caldas monitorada pela câmera na esquina 1764559258
+Rua Bento Portela monitorada pela câmera na esquina 1755770228
+Rua Toledo monitorada pela câmera na esquina 1755770228
+Rua Bento Portela monitorada pela câmera na esquina 3617684051
+Rua José Valentim da Silva monitorada pela câmera na esquina 3617684051
+--Rua Sem Nome 44-- monitorada pela câmera na esquina 1755770232
+Rua José Valentim da Silva monitorada pela câmera na esquina 3209516673
+Rua João da Mata monitorada pela câmera na esquina 1755775708
+Rua João da Mata monitorada pela câmera na esquina 1755775708
+Rua Escrivão Farense Silva monitorada pela câmera na esquina 1755775708
+Rua João da Mata monitorada pela câmera na esquina 1755775795
+Rua Amintas Novais monitorada pela câmera na esquina 1755775795
+Rua Mestre Francisco Lima Cerqueira monitorada pela câmera na esquina 1764538516
+Rua Operário André Gonçalves monitorada pela câmera na esquina 1755775730
+Rua Bento Portela monitorada pela câmera na esquina 3617579671
+Rua Bento Portela monitorada pela câmera na esquina 3617579671
+Rua Bento Portela monitorada pela câmera na esquina 1755775731
+Rua Rubi monitorada pela câmera na esquina 3131570304
+Rua José Martins Garcia monitorada pela câmera na esquina 3131570304
+Rua Irmã Maria Juliana monitorada pela câmera na esquina 1755775715
+Rua Operário Uriel de Moura Pereira monitorada pela câmera na esquina 1763813566
+Rua Operário Uriel de Moura Pereira monitorada pela câmera na esquina 1763813566
+Rua João Henrique monitorada pela câmera na esquina 3131570291
+Rua Rubi monitorada pela câmera na esquina 3131570291
+Rua João Rosa monitorada pela câmera na esquina 1755775762
+Rua João Henrique monitorada pela câmera na esquina 3617579677
+Rua Antônio Floriano da Silva monitorada pela câmera na esquina 1755775721
+Rua Antônio de Abreu monitorada pela câmera na esquina 1755775721
+Rua Antônio Floriano da Silva monitorada pela câmera na esquina 1755775721
+Rua Antônio Floriano da Silva monitorada pela câmera na esquina 3611267573
+Rua Vereador Henrique de Paula Ferreira monitorada pela câmera na esquina 3611267573
+Rua Antônio de Abreu monitorada pela câmera na esquina 1755775743
+Rua Amélia Saturnina de Freitas monitorada pela câmera na esquina 1755775743
+Rua Operário André Gonçalves monitorada pela câmera na esquina 3611282874
+Rua Antônio Floriano da Silva monitorada pela câmera na esquina 3611282874
+Rua Laudelino do Nascimento monitorada pela câmera na esquina 1755775723
+Rua Laudelino do Nascimento monitorada pela câmera na esquina 3616180787
+--Rua Sem Nome 139-- monitorada pela câmera na esquina 3616180787
+Rua Antônio de Abreu monitorada pela câmera na esquina 1755775724
+Rua José Santana da Silva monitorada pela câmera na esquina 1755775724
+--Rua Sem Nome 87-- monitorada pela câmera na esquina 3611329779
+Rua Operário André Gonçalves monitorada pela câmera na esquina 3611282879
+Rua Amélia Saturnina de Freitas monitorada pela câmera na esquina 3611282879
+Rua do Cruzeiro monitorada pela câmera na esquina 3131570298
+Rua Antônio de Moura Carvalho monitorada pela câmera na esquina 1755775732
+Rua Antônio de Moura Carvalho monitorada pela câmera na esquina 1755775732
+--Rua Sem Nome 124-- monitorada pela câmera na esquina 1755775732
+Rua Antônio de Moura Carvalho monitorada pela câmera na esquina 3616180783
+Travessa do Ouro monitorada pela câmera na esquina 3616180783
+--Rua Sem Nome 88-- monitorada pela câmera na esquina 1755775736
+Rua Antônio Floriano da Silva monitorada pela câmera na esquina 1755775736
+Rua Operário Uriel de Moura Pereira monitorada pela câmera na esquina 1763813622
+--Rua Sem Nome 83-- monitorada pela câmera na esquina 3611282885
+Rua João da Mata monitorada pela câmera na esquina 1755775745
+Rua Professor João Batista Viegas monitorada pela câmera na esquina 1755775745
+Rua João da Mata monitorada pela câmera na esquina 1763813583
+Rua Frei Estevão monitorada pela câmera na esquina 1755775798
+Rua Sargento Agostinho São Rios monitorada pela câmera na esquina 1755775768
+Rua Frei Estevão monitorada pela câmera na esquina 1755775807
+Rua Mestre Francisco Lima Cerqueira monitorada pela câmera na esquina 1764538776
+Rua Antônio de Assis monitorada pela câmera na esquina 1755775822
+Rua Odete Resende Mattar monitorada pela câmera na esquina 1763813641
+Rua João da Mata monitorada pela câmera na esquina 3611259158
+--Rua Sem Nome 80-- monitorada pela câmera na esquina 3611104724
+--Rua Sem Nome 132-- monitorada pela câmera na esquina 3611104724
+--Rua Sem Nome 129-- monitorada pela câmera na esquina 3611104725
+Rua Armênio Reis monitorada pela câmera na esquina 3612842125
+Rua Armênio Reis monitorada pela câmera na esquina 3612842125
+Rua Comandante José Flores monitorada pela câmera na esquina 1764588778
+--Rua Sem Nome 23-- monitorada pela câmera na esquina 1763815935
+Rua Emília Batista de Carvalho Nascimento monitorada pela câmera na esquina 1763815935
+Rua Rossini Bacarini monitorada pela câmera na esquina 1763815940
+Rua Jeudiel Torga monitorada pela câmera na esquina 1763815940
+Avenida General Osório monitorada pela câmera na esquina 1764588776
+Rua Jeudiel Torga monitorada pela câmera na esquina 1764588776
+--Rua Sem Nome 141-- monitorada pela câmera na esquina 10759864623
+Rua Mestre Francisco Lima Cerqueira monitorada pela câmera na esquina 1764538403
+Rua Antônio Francisco Lisboa monitorada pela câmera na esquina 1764538403
+Rua Agostinho Azevedo monitorada pela câmera na esquina 1764587728
+Rua General João Faria monitorada pela câmera na esquina 3611214293
+Rua Ricardo Geraldo dos Santos monitorada pela câmera na esquina 1764559189
+Rua Altamiro Flor monitorada pela câmera na esquina 1764559189
+Rua Ricardo Geraldo dos Santos monitorada pela câmera na esquina 3617579871
+Rua dos Minerais monitorada pela câmera na esquina 3617579871
+Rua Altamiro Flor monitorada pela câmera na esquina 3616016439
+Travessa Sebastião Neri monitorada pela câmera na esquina 3616016439
+Rua Ricardo Geraldo dos Santos monitorada pela câmera na esquina 1764559238
+Rua Ricardo Geraldo dos Santos monitorada pela câmera na esquina 3617589329
+--Rua Sem Nome 122-- monitorada pela câmera na esquina 3617589329
+Rua Antônio Cirino Rodrigues monitorada pela câmera na esquina 3209469171
+Rua Antônio Crino monitorada pela câmera na esquina 3209469171
+Rua Gentil Palhares monitorada pela câmera na esquina 3616051849
+Rua Antônio Crino monitorada pela câmera na esquina 3616130862
+Rua Altamiro Flor monitorada pela câmera na esquina 3617527026
+Rua Beatriz A. Vieira monitorada pela câmera na esquina 3617527026
+['Rua do Tanque', 'Rua Marcondes Neves'] monitorada pela câmera na esquina 1764572474
+Rua Gomes Pedroso monitorada pela câmera na esquina 1764572474
+Rua Gomes Pedroso monitorada pela câmera na esquina 1764572474
+--Rua Sem Nome 138-- monitorada pela câmera na esquina 3615992823
+Rua Gomes Pedroso monitorada pela câmera na esquina 3615992821
+Travessa Osvaldo da Fonseca Torga monitorada pela câmera na esquina 1764572496
+Rua Agostinho Azevedo monitorada pela câmera na esquina 3611247051
+Avenida General Osório monitorada pela câmera na esquina 3209516687
+Rua Tenente Geraldo Silva monitorada pela câmera na esquina 3209516687
+Rua José Antônio da Silva monitorada pela câmera na esquina 1764588777
+Rua Vereador Vicente Cantelmo monitorada pela câmera na esquina 1764588777
+Rua Comandante José Flores monitorada pela câmera na esquina 3612720750
+Rua Vereador Vicente Cantelmo monitorada pela câmera na esquina 1764588785
+Rua Aureliano Raposo monitorada pela câmera na esquina 1764749663
+--Rua Sem Nome 43-- monitorada pela câmera na esquina 1764749663
+Rua Manoel José monitorada pela câmera na esquina 1764749670
+Rua Manoel José monitorada pela câmera na esquina 1764749670
+Rua João Mourão monitorada pela câmera na esquina 1764749664
+Rua Manoel José monitorada pela câmera na esquina 1764749664
+Rua João Mourão monitorada pela câmera na esquina 3615939331
+Rua Manoel José monitorada pela câmera na esquina 1764749666
+Rua Antônio Evangelista Teixeira monitorada pela câmera na esquina 1764749666
+Rua Manoel José monitorada pela câmera na esquina 1764749667
+Rua Manoel José monitorada pela câmera na esquina 1764749667
+--Rua Sem Nome 106-- monitorada pela câmera na esquina 3615841286
+Praça Francisco Nestor dos Santos monitorada pela câmera na esquina 3209188888
+Rua Geraldo C. Almeida monitorada pela câmera na esquina 3611376160
+Rua Geraldo C. Almeida monitorada pela câmera na esquina 3611376160
+Rua Antônio M. C. Filho monitorada pela câmera na esquina 3611376167
+Rua André Belo monitorada pela câmera na esquina 2989674500
+Avenida 8 de Dezembro monitorada pela câmera na esquina 2989674500
+Avenida 8 de Dezembro monitorada pela câmera na esquina 3213898402
+Rua do Cruzeiro monitorada pela câmera na esquina 3131570287
+Rua do Cruzeiro monitorada pela câmera na esquina 3131570287
+--Rua Sem Nome 34-- monitorada pela câmera na esquina 3131570287
+Rua José Martins Garcia monitorada pela câmera na esquina 3617579824
+--Rua Sem Nome 123-- monitorada pela câmera na esquina 3617717571
+Rua José Pedro de Azevedo monitorada pela câmera na esquina 3131570288
+Rua Rubi monitorada pela câmera na esquina 3131570295
+Rua José Gontijo de Lima monitorada pela câmera na esquina 3209188879
+Rua José Gontijo de Lima monitorada pela câmera na esquina 3209188879
+Rua Engenheiro Bicalho monitorada pela câmera na esquina 3209188885
+Rua Engenheiro Bicalho monitorada pela câmera na esquina 3209188885
+--Rua Sem Nome 100-- monitorada pela câmera na esquina 3615841224
+--Rua Sem Nome 99-- monitorada pela câmera na esquina 3615841224
+Rua Beatriz Ambrosio Vieira monitorada pela câmera na esquina 3209444354
+Rua Sebastião Neri monitorada pela câmera na esquina 3617482472
+--Rua Sem Nome 114-- monitorada pela câmera na esquina 3617482472
+Praça Raul Soares monitorada pela câmera na esquina 3214297392
+--Rua Sem Nome 46-- monitorada pela câmera na esquina 3278704568
+Rua Professor Geraldo Luiz Oliveira de Resende monitorada pela câmera na esquina 3278704568
+--Rua Sem Nome 67-- monitorada pela câmera na esquina 3278704568
+Rua Professor Geraldo Luiz Oliveira de Resende monitorada pela câmera na esquina 3278704570
+--Rua Sem Nome 55-- monitorada pela câmera na esquina 3278704570
+--Rua Sem Nome 66-- monitorada pela câmera na esquina 3278704594
+--Rua Sem Nome 68-- monitorada pela câmera na esquina 3278704594
+--Rua Sem Nome 59-- monitorada pela câmera na esquina 3278704574
+Rua Professor Geraldo Luiz Oliveira de Resende monitorada pela câmera na esquina 3278704574
+--Rua Sem Nome 62-- monitorada pela câmera na esquina 3278704582
+--Rua Sem Nome 61-- monitorada pela câmera na esquina 3278704582
+--Rua Sem Nome 72-- monitorada pela câmera na esquina 3278704590
+--Rua Sem Nome 71-- monitorada pela câmera na esquina 3278704579
+Rua Professor Geraldo Luiz Oliveira de Resende monitorada pela câmera na esquina 3278704579
+--Rua Sem Nome 57-- monitorada pela câmera na esquina 3278704578
+--Rua Sem Nome 51-- monitorada pela câmera na esquina 3278704578
+--Rua Sem Nome 73-- monitorada pela câmera na esquina 3278704585
+--Rua Sem Nome 74-- monitorada pela câmera na esquina 3278704598
+--Rua Sem Nome 69-- monitorada pela câmera na esquina 3278704591
+--Rua Sem Nome 75-- monitorada pela câmera na esquina 3278704591
+Avenida Andrade Reis monitorada pela câmera na esquina 8086864084
+Rua São João Del Rei monitorada pela câmera na esquina 3611104712
+Rua São João Del Rei monitorada pela câmera na esquina 3611104712
+--Rua Sem Nome 130-- monitorada pela câmera na esquina 7861918939
+--Rua Sem Nome 131-- monitorada pela câmera na esquina 7861918940
+Rua João Alfenes da Silva monitorada pela câmera na esquina 3612842117
+Rua João Magalhães monitorada pela câmera na esquina 3615217020
+--Rua Sem Nome 118-- monitorada pela câmera na esquina 3615217020
+Rua Amazônia monitorada pela câmera na esquina 3617579820
+['Rua Amazônia', 'Rua José Martins Garcia'] monitorada pela câmera na esquina 3617579820
+Rua Professora Eugênia Vieira de Souza monitorada pela câmera na esquina 3615730086
+--Rua Sem Nome 115-- monitorada pela câmera na esquina 3617527030
+Rua Sebastião Neri monitorada pela câmera na esquina 3617482455
+Rua Sebastião Neri monitorada pela câmera na esquina 3617482447
+Travessa Andrelândia monitorada pela câmera na esquina 3617482447
+Rua Antônio Rocha monitorada pela câmera na esquina 410707323
+Rua Doutor Antônio da Silva Rios monitorada pela câmera na esquina 3610814690
+Rua Carvalhoo Campos monitorada pela câmera na esquina 1755729430
+Rua Capitão Vilarim monitorada pela câmera na esquina 1752072366
+Rua Geraldo C. Almeida monitorada pela câmera na esquina 1752079818
+Rua Geraldo Pinto Lima monitorada pela câmera na esquina 1764783011
+Rua João Mourão monitorada pela câmera na esquina 1752079770
+Rua Geraldo C. Almeida monitorada pela câmera na esquina 1764783004
+Rua Carvalhoo Campos monitorada pela câmera na esquina 1763742182
+Rua Francisco Moreira da Rocha monitorada pela câmera na esquina 3612866744
+Rua Ricardo Benfenatti monitorada pela câmera na esquina 1755744230
+Travessa Toledo monitorada pela câmera na esquina 3617544916
+Rua João Ribeiro da Silva monitorada pela câmera na esquina 1763813645
+Rua Senhor dos Santos monitorada pela câmera na esquina 3131570259
+Praça Nossa Senhora de Fátima monitorada pela câmera na esquina 3209516679
+Rua Engenheiro Bicalho monitorada pela câmera na esquina 3209188887
+Rua Monte Carmelo monitorada pela câmera na esquina 3131570263
+Rua Monte Carmelo monitorada pela câmera na esquina 3131570263
+Rua João Magalhães monitorada pela câmera na esquina 3131570271
+Rua Doutor Mateus Salomé monitorada pela câmera na esquina 3208735849
+Rua José Carlos das Neves monitorada pela câmera na esquina 3213880606
+--Rua Sem Nome 117-- monitorada pela câmera na esquina 3617578690
+
+Lista de esquinas onde serão colocadas as câmeras:3209429967
+410707433
+3611376141
+3615841251
+410707460
+1755775807
+3278704594
+3613405884
+3616180745
+1764559258
+3611247051
+1755729286
+3206672875
+3209523298
+3213898402
+2053163001
+410707866
+1755729303
+1763815930
+1752056037
+3209516687
+1432867404
+1752079849
+3611282885
+1755762675
+3209188879
+2800906152
+3209432009
+3611297274
+1752079714
+3617482472
+410707326
+3612720721
+1764572474
+3617684051
+3611329779
+8375005157
+1764749670
+410707424
+1755729528
+3209516679
+410707594
+3617579885
+3278704578
+3617532685
+1752072182
+1764572496
+3611214300
+410707430
+3131570298
+1752079744
+3278704579
+3209188887
+3617579671
+410707415
+410707368
+3131570295
+410707477
+3610788762
+1752079765
+1537807535
+1755770190
+3616159981
+3612866744
+1755775762
+7861918939
+8110699026
+1755744272
+3209469171
+3611186892
+3615730048
+1764749666
+1755744264
+1537807522
+410707378
+410707393
+3209188873
+3209432008
+3209516678
+1755775715
+1755770232
+1763813566
+1755729506
+3208802824
+1755775822
+1764785004
+3617544916
+3617579820
+3278704574
+3616180769
+1764561999
+1755729495
+3611376178
+1755744230
+1752079860
+3135107124
+3131570282
+410707541
+8375005163
+410707537
+410707589
+1752079726
+3209278533
+1764783024
+8374844546
+1537812503
+1755775708
+1537807545
+1755729505
+3611104727
+1763815927
+1764588787
+1755775732
+410707447
+2989674500
+3611247068
+3209381522
+3611259158
+1764587728
+3616130862
+410707376
+1755729538
+1755729539
+1764538516
+1537807544
+3615939331
+1752079815
+1755775730
+410707528
+3615215492
+3615992823
+3278704591
+1755770205
+1752079750
+3612720750
+1537812483
+3611267573
+410707418
+3611104711
+410707403
+3617579871
+1537812512
+3612842121
+410707439
+1763813660
+1764588778
+1527527528
+3278704568
+410707402
+3278703854
+3612842125
+1752056125
+1755729280
+3617482447
+1755729315
+410707519
+1755775736
+3612859441
+3220630382
+1763813645
+1752079723
+8377303703
+1764542544
+3208735849
+3616180783
+7549163925
+1755770228
+1764538751
+1755729297
+3615992821
+3611282879
+1537807508
+10759864623
+1755128050
+3611376160
+3206672874
+1752056127
+1755729544
+1764749672
+1752079778
+3208868480
+1752056051
+3131570287
+1755775768
+1752056058
+1755775721
+1752072366
+1755744279
+1764588781
+1755762580
+1537812473
+3615735448
+3131570259
+1755744263
+3209444355
+1764559216
+3617578690
+3206626640
+2800906159
+3209250775
+8374844538
+1755128035
+1755775794
+1764538403
+1755775714
+3615992815
+1763815935
+3610822404
+3209188885
+3616051834
+3615797630
+3131570271
+1752056068
+1764559189
+1755775742
+1755729467
+1432867408
+3208839959
+1752056109
+1752079737
+1537807507
+7839913786
+1537812514
+3612786098
+3611214297
+3616180787
+3615730043
+2800906132
+1764588776
+1764588777
+1755775723
+3209523297
+1755775745
+1763813583
+410707385
+1763742182
+1764749664
+3278704582
+410707323
+410707463
+3209232205
+3610814690
+2800906172
+3213890568
+1537812511
+1763815946
+1537812502
+410707389
+3617527026
+410707473
+8086927059
+410707422
+1761724864
+410707358
+1755729430
+3278704570
+1764559207
+2800906155
+8375188699
+3612842123
+3610814911
+3611104725
+1764538493
+410707526
+3617589329
+3131570263
+1755729254
+1755729412
+3615889048
+1764562006
+3209444354
+1755775798
+3617527030
+1527527522
+1752056118
+410707440
+1763815940
+1755775743
+3617579873
+410707736
+1764538776
+3615841224
+1764749663
+3278704585
+3615939332
+1764559238
+3612842122
+3616051849
+410707413
+3617482454
+410707381
+3611376162
+3209241995
+1752079840
+1763813641
+1752079819
+3131570304
+3213880606
+3605393665
+410707578
+3131570288
+3000897637
+3616180772
+3612976733
+1763815925
+1537812508
+410707411
+3616051833
+1764538583
+1527527571
+3214297392
+3615217020
+1755729310
+3612842117
+3611297288
+3617579677
+1764587726
+8087913549
+3617482455
+3611226739
+8377467357
+3209241996
+7861918940
+3214297386
+410707443
+3617717571
+3616016439
+1755775795
+3214297385
+410707445
+1755770224
+1764588780
+3209188888
+1764588785
+3278704590
+1527527589
+410707405
+2053163002
+1752079770
+1764749667
+3615730086
+8086864103
+3617579824
+1764582172
+1752056091
+1752079818
+1755775724
+1755775718
+410707448
+1755729508
+3616159980
+1763813622
+3209516673
+8086864084
+1527527515
+1763815942
+3208905392
+2800906130
+1764783011
+2800906160
+3611214293
+3278704598
+1763815947
+3615841286
+3617482445
+3611376167
+1755775731
+1752079715
+410707432
+3616051848
+8377388691
+410707521
+3611104724
+3611297287
+1537807516
+1764782979
+3611282874
+3209250774
+410707387
+1755770195
+410707437
+3611104712
+3616159977
+1764783004
+3131570291
